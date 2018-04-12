@@ -1,0 +1,89 @@
+Star Wars: Episode IV - A New Hope	http://dl.opensubtitles.org/en/download/src-api/vrf-f5780bc3/sid-3a68X6FtJm7fu5q8HjV86X-B-hd/sub/5965836	1534
+Star Wars: Episode I - The Phantom Menace	http://dl.opensubtitles.org/en/download/src-api/vrf-f5800bc8/sid-QfdThBgz38KNmpAFDEQap7H76E3/sub/5965868	1443
+Star Wars: Episode II - Attack of the Clones	http://dl.opensubtitles.org/en/download/src-api/vrf-f5760bc3/sid-9OwERLB2DsT899u3gC73klkmK2b/sub/5965818	1263
+Star Wars: Episode III - Revenge of the Sith	http://dl.opensubtitles.org/en/download/src-api/vrf-f5570bbe/sid-H58X4UAvITtO6Wo22L0nytQ,P-9/sub/6195538	1210
+Star Wars: Episode V - The Empire Strikes Back	http://dl.opensubtitles.org/en/download/src-api/vrf-f5730bbf/sid-Cz5iazYyqV,AcepEMxYxWXrNwm0/sub/5965823	1334
+Star Wars: Episode VI - Return of the Jedi	http://dl.opensubtitles.org/en/download/src-api/vrf-f5710bbd/sid-DZmCns1vaiOgLPscV3Kg21AGkj0/sub/5965821	1128
+Star Wars: The Force Awakens	http://dl.opensubtitles.org/en/download/src-api/vrf-f55f0bbf/sid-w4P5om3q1EFsmJfYtvD5DxqqHV0/sub/6609836	1409
+Star Wars: The Clone Wars	http://dl.opensubtitles.org/en/download/src-api/vrf-f53e0bb8/sid-83qHdS3UwjiI9ix3UkfCzVP7BL0/sub/6081637	277
+"Star Wars: The Clone Wars" Sacrifice	http://dl.opensubtitles.org/en/download/src-api/vrf-f5390bb4/sid-04ZRImjckLvITojY6YBbT0ueFvf/sub/6081705	207
+"Star Wars: The Clone Wars" R2 Come Home	http://dl.opensubtitles.org/en/download/src-api/vrf-f53e0bb8/sid-CEXgK8QRxqPrxnj1CfHN-a-S-4f/sub/6081637	277
+"Star Wars: The Clone Wars" Brain Invaders	http://dl.opensubtitles.org/en/download/src-api/vrf-f53e0bb8/sid-SeLl-HUy0ClRARVGd,ZKNV31wNf/sub/6081637	277
+"Star Wars: The Clone Wars" Clone Cadets	http://dl.opensubtitles.org/en/download/src-api/vrf-f5430bbb/sid-oVoqDi8OZLYBcQV6a1AZBSRHgnd/sub/6081658	591
+"Star Wars: The Clone Wars" Holocron Heist	http://dl.opensubtitles.org/en/download/src-api/vrf-f5370bb1/sid-Ik20qZ5rO7ljAHHCEyUwuwJ8z8b/sub/6081630	345
+"Star Wars: The Clone Wars" Cloak of Darkness	http://dl.opensubtitles.org/en/download/src-api/vrf-f5370bb4/sid-UE8xIIhw747VwytJZYOwgJI9Qg4/sub/6081606	272
+"Star Wars: The Clone Wars" Ambush	http://dl.opensubtitles.org/en/download/src-api/vrf-f5480bbe/sid-fbMZ,i5gKk1vdRTBE4rZyh9BGp1/sub/6081598	307
+"Star Wars: The Clone Wars" Conspiracy	http://dl.opensubtitles.org/en/download/src-api/vrf-f5440bb8/sid-BltfoI4sWCUp,UPc7J7yJ33y3Wc/sub/6081691	377
+"Star Wars: The Clone Wars" Innocents of Ryloth	http://dl.opensubtitles.org/en/download/src-api/vrf-f53a0bb6/sid-AaIoAIGTD4J7MMTc1DYl7FDpY9c/sub/6081617	285
+"Star Wars: The Clone Wars" The Mandalore Plot	http://dl.opensubtitles.org/en/download/src-api/vrf-f53a0bb3/sid-lpS5UDPlqY14C4sFTD,xOIEcyc6/sub/6081641	280
+"Star Wars: The Clone Wars" Duchess of Mandalore	http://dl.opensubtitles.org/en/download/src-api/vrf-f53c0bb5/sid-EUzjc1H10fnfYqvNXFiejJ7QZ58/sub/6081643	326
+"Star Wars: The Clone Wars" Destroy Malevolence	http://dl.opensubtitles.org/en/download/src-api/vrf-f5320baf/sid-6cIbxGkoS9bmX8LXKPzwAOEmBe8/sub/6081601	325
+"Star Wars: The Clone Wars" Rookies	http://dl.opensubtitles.org/en/download/src-api/vrf-f5330bb0/sid-e,5a8HJEOuIaBJc4,HW6J-c,whb/sub/6081602	349
+"Star Wars: The Clone Wars" Downfall of a Droid	http://dl.opensubtitles.org/en/download/src-api/vrf-f5340bb1/sid-oHDkDDWzWfFQfOAlAouWSiZGAIc/sub/6081603	295
+"Star Wars: The Clone Wars" Corruption	http://dl.opensubtitles.org/en/download/src-api/vrf-f53f0bb6/sid-ZkL8giI6CUakWlVM84BQ31AW2f0/sub/6081662	331
+"Star Wars: The Clone Wars" Duel of the Droids	http://dl.opensubtitles.org/en/download/src-api/vrf-f5350bb2/sid-sB7SEP3VR-kksWnb5mfwP56OUA4/sub/6081604	268
+"Star Wars: The Clone Wars" Bombad Jedi	http://dl.opensubtitles.org/en/download/src-api/vrf-f5360bb3/sid-MlIFxxLh7Quz-kON7V0ComLrZVc/sub/6081605	385
+"Star Wars: The Clone Wars" Dooku Captured	http://dl.opensubtitles.org/en/download/src-api/vrf-f5390bb6/sid-2xLsF74,l3IKf7Rh6xyVEFxjVFd/sub/6081608	299
+"Star Wars: The Clone Wars" The Unknown	http://dl.opensubtitles.org/en/download/src-api/vrf-f5470bbb/sid-v22FnZLtnGwih6gjmfWJfAr73hf/sub/6081694	232
+"Star Wars: The Clone Wars" Lair of Grievous	http://dl.opensubtitles.org/en/download/src-api/vrf-f5380bb5/sid-2wjqwL0FQpULBhDozPXMY5E-Qe5/sub/6081607	288
+"Star Wars: The Clone Wars" The Gungan General	http://dl.opensubtitles.org/en/download/src-api/vrf-f53a0bb7/sid-LZcctXES5RLiNQNACbvu3Qkgyt9/sub/6081609	349
+"Star Wars: The Clone Wars" Jedi Crash	http://dl.opensubtitles.org/en/download/src-api/vrf-f5330baf/sid-I9V9N-KO3Ty0FsUgA7Zmth67dd0/sub/6081610	254
+"Star Wars: The Clone Wars" Blue Shadow Virus	http://dl.opensubtitles.org/en/download/src-api/vrf-f5370bb3/sid-uvPNvNm3h0TbGaySUerKh6HM6Hd/sub/6081614	310
+"Star Wars: The Clone Wars" Defenders of Peace	http://dl.opensubtitles.org/en/download/src-api/vrf-f5340bb0/sid--FloYHtp33sEtp4PZ2Js9k9RUA6/sub/6081611	291
+"Star Wars: The Clone Wars" Trespass	http://dl.opensubtitles.org/en/download/src-api/vrf-f5350bb1/sid-rSsaG3ZU6FgYrJxNXxU-mQlHQi5/sub/6081612	293
+"Star Wars: The Clone Wars" The Hidden Enemy	http://dl.opensubtitles.org/en/download/src-api/vrf-f5360bb2/sid-BZc33qz9rsDQbqYF53VGeD7ErP6/sub/6081613	345
+"Star Wars: The Clone Wars" Death Trap	http://dl.opensubtitles.org/en/download/src-api/vrf-f5420bbb/sid-bEqROp,quZOZGndcvQOFGLNfikb/sub/6081649	349
+"Star Wars: The Clone Wars" The Lost One	http://dl.opensubtitles.org/en/download/src-api/vrf-f5360bb1/sid-Qx4lVdKnHGVsqswWIy-Paf8jJmd/sub/6081702	341
+"Star Wars: The Clone Wars" Destiny	http://dl.opensubtitles.org/en/download/src-api/vrf-f5380bb3/sid-9BYdPz9nkzl8AUyEX0QIj6BdqTd/sub/6081704	237
+"Star Wars: The Clone Wars" Hostage Crisis	http://dl.opensubtitles.org/en/download/src-api/vrf-f53c0bb8/sid-lLubuihX1Tb,,f0kIjvQGK2rF35/sub/6081619	270
+"Star Wars: The Clone Wars" Fugitive	http://dl.opensubtitles.org/en/download/src-api/vrf-f5480bbc/sid-brXkB45DsRQzzG3Q3Gl3jbsuBX1/sub/6081695	347
+"Star Wars: The Clone Wars" Voices	http://dl.opensubtitles.org/en/download/src-api/vrf-f5370bb2/sid-nPQ2Q4zgIvW7S-CAX9-KhM8Zny3/sub/6081703	313
+"Star Wars: The Clone Wars" Mystery of a Thousand Moons	http://dl.opensubtitles.org/en/download/src-api/vrf-f5380bb4/sid-rq5uQr3mA3IFpMiGT3is-CNq7Db/sub/6081615	340
+"Star Wars: The Clone Wars" Senate Murders	http://dl.opensubtitles.org/en/download/src-api/vrf-f53d0bb6/sid-JLWd4nFd44RrVn5cDAWiipGhjK7/sub/6081644	377
+"Star Wars: The Clone Wars" Orders	http://dl.opensubtitles.org/en/download/src-api/vrf-f5490bbd/sid-QsjtMsjn,-lb5kAyGJNPuOYITKb/sub/6081696	360
+"Star Wars: The Clone Wars" Cargo of Doom	http://dl.opensubtitles.org/en/download/src-api/vrf-f5380bb2/sid-l2h0YRdP3aSlRBZG6kd6Ws6p7z1/sub/6081631	291
+"Star Wars: The Clone Wars" ARC Troopers	http://dl.opensubtitles.org/en/download/src-api/vrf-f5440bbc/sid-tzd-TQR74sevZDXs5ER3a,zd9e5/sub/6081659	224
+"Star Wars: The Clone Wars" An Old Friend	http://dl.opensubtitles.org/en/download/src-api/vrf-f54a0bbe/sid-s5q1Mi1D5MJb3TqeG3fViTgm6f0/sub/6081697	268
+"Star Wars: The Clone Wars" Crisis at the Heart	http://dl.opensubtitles.org/en/download/src-api/vrf-f54c0bc0/sid-DDBcRqMa8k1yckn-GfbL,JxgCSb/sub/6081699	319
+"Star Wars: The Clone Wars" The Disappeared: Part 1	http://dl.opensubtitles.org/en/download/src-api/vrf-f5340baf/sid-iO9Yl0Vetz4OYKmdoloOxrD56oe/sub/6081700	323
+"Star Wars: The Clone Wars" Storm Over Ryloth	http://dl.opensubtitles.org/en/download/src-api/vrf-f5390bb5/sid-FNv6qfiWEDFFom4LWZwqFT6jyZ1/sub/6081616	429
+"Star Wars: The Clone Wars" Cat and Mouse	http://dl.opensubtitles.org/en/download/src-api/vrf-f53e0bb7/sid-xaIBuXQEoJYdobvFdHlZfzn18X0/sub/6081645	363
+"Star Wars: The Clone Wars" The Rise of Clovis	http://dl.opensubtitles.org/en/download/src-api/vrf-f54b0bbf/sid-1QfTzm,cWdKQvqK3Ll,lFzwvVIe/sub/6081698	415
+"Star Wars: The Clone Wars" Children of the Force	http://dl.opensubtitles.org/en/download/src-api/vrf-f5390bb3/sid-ASqfkwE79V4RH7dZt12UfQyG7T0/sub/6081632	283
+"Star Wars: The Clone Wars" Landing at Point Rain	http://dl.opensubtitles.org/en/download/src-api/vrf-f53b0bb5/sid-jgdWDLnCIQsUvCqdRCrsjwTcD4e/sub/6081634	304
+"Star Wars: The Clone Wars" The Disappeared: Part 2	http://dl.opensubtitles.org/en/download/src-api/vrf-f5350bb0/sid-tRzFn4tUaBwKpHGHyMtoW41ZClc/sub/6081701	241
+"Star Wars: The Clone Wars" Liberty on Ryloth	http://dl.opensubtitles.org/en/download/src-api/vrf-f53b0bb7/sid-q30aAPqGWwEXQ3oKmpMrCcN0oPb/sub/6081618	295
+"Star Wars: The Clone Wars" Weapons Factory	http://dl.opensubtitles.org/en/download/src-api/vrf-f53c0bb6/sid-eeSCGUae4CIVkHSFLdFSBkkq1Y4/sub/6081635	302
+"Star Wars: The Clone Wars" Legacy of Terror	http://dl.opensubtitles.org/en/download/src-api/vrf-f53d0bb7/sid-scxAKuF2JgUe4sYEsruSpYo,ptb/sub/6081636	293
+"Star Wars: The Clone Wars" Grievous Intrigue	http://dl.opensubtitles.org/en/download/src-api/vrf-f53f0bb9/sid-XGP18uf8QrGa687A8JqqnbJdhH3/sub/6081638	232
+"Star Wars: The Clone Wars" Ghosts of Mortis	http://dl.opensubtitles.org/en/download/src-api/vrf-f5430bb9/sid-VGx2dgLRZyeGCI1bZbnZ1mK9Pl6/sub/6081674	284
+"Star Wars: The Clone Wars" Rising Malevolence	http://dl.opensubtitles.org/en/download/src-api/vrf-f5490bbf/sid-c92HaOoB2binmAYdj9cUpxkbYw2/sub/6081599	400
+"Star Wars: The Clone Wars" Senate Spy	http://dl.opensubtitles.org/en/download/src-api/vrf-f53a0bb4/sid-r-CSRgS8MJofCtjLPiOzdYBQrWd/sub/6081633	390
+"Star Wars: The Clone Wars" Supply Lines	http://dl.opensubtitles.org/en/download/src-api/vrf-f53d0bb4/sid-0lcMkj1LD-Gp0-Rqu8OE-hZyAE2/sub/6081660	340
+"Star Wars: The Clone Wars" Shadow of Malevolence	http://dl.opensubtitles.org/en/download/src-api/vrf-f5450bbb/sid-TPwnXzgLy3DMnjg5DoLm13l3Gc2/sub/6081595	1182
+"Star Wars: The Clone Wars" Lightsaber Lost	http://dl.opensubtitles.org/en/download/src-api/vrf-f5390bb2/sid-5C79tXaAZeLgPFGqGnxv6Fdj7j8/sub/6081640	276
+"Star Wars: The Clone Wars" Bounty Hunters	http://dl.opensubtitles.org/en/download/src-api/vrf-f53f0bb8/sid-wtwLZBe7UXhZiAxdhJGzEZj7Ah3/sub/6081646	302
+"Star Wars: The Clone Wars" Sphere of Influence	http://dl.opensubtitles.org/en/download/src-api/vrf-f53e0bb5/sid-YuF0rUa,c-shY6R-aQuP675sLe6/sub/6081661	334
+"Star Wars: The Clone Wars" Overlords	http://dl.opensubtitles.org/en/download/src-api/vrf-f5410bb7/sid-,OhLYWYFNpEKbM7aEOaoji9F1ia/sub/6081672	337
+"Star Wars: The Clone Wars" The Deserter	http://dl.opensubtitles.org/en/download/src-api/vrf-f5400bba/sid-lAUc59fExO-i7iAOXYC0opVGiK4/sub/6081639	371
+"Star Wars: The Clone Wars" The Zillo Beast	http://dl.opensubtitles.org/en/download/src-api/vrf-f5400bb9/sid-LR516cv9ZfczeMy1F,59k71ax6e/sub/6081647	214
+"Star Wars: The Clone Wars" The Academy	http://dl.opensubtitles.org/en/download/src-api/vrf-f5400bb7/sid-4px9GLWLduVAA8NrOZuIkzyTPAd/sub/6081663	331
+"Star Wars: The Clone Wars" Assassin	http://dl.opensubtitles.org/en/download/src-api/vrf-f5410bb8/sid-51EeBDxIj1H0Q7DmGi6-JyhD,93/sub/6081664	312
+"Star Wars: The Clone Wars" Nightsisters	http://dl.opensubtitles.org/en/download/src-api/vrf-f5460bbd/sid-6d-qM0OxogwWkofZl2lSG0-ucO2/sub/6081669	215
+"Star Wars: The Clone Wars" Padawan Lost	http://dl.opensubtitles.org/en/download/src-api/vrf-f5470bbd/sid-62Ca29jVkW73MUsXSkHt7Efv0jb/sub/6081678	248
+"Star Wars: The Clone Wars" Hunt for Ziro	http://dl.opensubtitles.org/en/download/src-api/vrf-f5430bba/sid-QRcSqZ8x43,qWFJc7IzEddcrkU9/sub/6081666	252
+"Star Wars: The Clone Wars" Monster	http://dl.opensubtitles.org/en/download/src-api/vrf-f53f0bb5/sid-ntJOOjtu3XBWpdFR9Y9-tC9M9l8/sub/6081670	203
+"Star Wars: The Clone Wars" The Citadel	http://dl.opensubtitles.org/en/download/src-api/vrf-f5440bba/sid-eo,-Q06ZprUelPz,NfSTJnN4XLe/sub/6081675	286
+"Star Wars: The Clone Wars" Counter Attack	http://dl.opensubtitles.org/en/download/src-api/vrf-f5450bbb/sid-,e4v8wu4QQrmWTfczMb5,g1vWw9/sub/6081676	245
+"Star Wars: The Clone Wars" Citadel Rescue	http://dl.opensubtitles.org/en/download/src-api/vrf-f5460bbc/sid-8Fvf,tJR-aZeN6P9FJxn8aO,PS7/sub/6081677	221
+"Star Wars: The Clone Wars" Voyage of Temptation	http://dl.opensubtitles.org/en/download/src-api/vrf-f53b0bb4/sid-HZGwhR1E1h6c6FA-j4XGX6xnws1/sub/6081642	335
+"Star Wars: The Clone Wars" Heroes on Both Sides	http://dl.opensubtitles.org/en/download/src-api/vrf-f5440bbb/sid-IxOyt-t7-wRggxTlcBzP0OB2LL1/sub/6081667	322
+"Star Wars: The Clone Wars" Pursuit of Peace	http://dl.opensubtitles.org/en/download/src-api/vrf-f5450bbc/sid-kK7J6KTGYMweEq01mxjUdPFKTG2/sub/6081668	314
+"Star Wars: The Clone Wars" Witches of the Mist	http://dl.opensubtitles.org/en/download/src-api/vrf-f5400bb6/sid-6t,t6or-dacHYH6VI3nBjYAs2Xd/sub/6081671	217
+"Star Wars: The Clone Wars" Altar of Mortis	http://dl.opensubtitles.org/en/download/src-api/vrf-f5420bb8/sid-75rqXOsjeGque0WBJIDAzmU8bM5/sub/6081673	263
+"Star Wars: The Clone Wars" Wookiee Hunt	http://dl.opensubtitles.org/en/download/src-api/vrf-f5480bbe/sid-Xnfdas9,l4VawesH,kfvo5vChja/sub/6081679	187
+"Star Wars: The Clone Wars" Evil Plans	http://dl.opensubtitles.org/en/download/src-api/vrf-f5420bb9/sid-AL,7JjUa0qtCFSOJazwvTOnUiP1/sub/6081665	303
+"Star Wars: The Clone Wars" The Zillo Beast Strikes Back	http://dl.opensubtitles.org/en/download/src-api/vrf-f5410bba/sid-HU56G1z-H92kEUXOBdAOd3APJfb/sub/6081648	223
+"Star Wars: The Clone Wars" Lethal Trackdown	http://dl.opensubtitles.org/en/download/src-api/vrf-f53c0bb4/sid-uT6VLUOBVxy6FSLvWxu84HZiA49/sub/6081651	307
+Rogue One	http://dl.opensubtitles.org/en/download/src-api/vrf-f5690bc0/sid-Jlk1LV9FdlW7C-PJsDfAssxgdab/sub/6937077	1617
+Temporary for Detection	http://dl.opensubtitles.org/en/download/src-api/vrf-f5750bc4/sid-0SwE15t4XBpf81rBUuz5dfkykha/sub/5937937	583
