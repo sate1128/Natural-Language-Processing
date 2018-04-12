@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js">
+	</script>
+	<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+	<style>
+	* {
+	 box-sizing: border-box;
+	}
+
+	body {
+	 background-color: #f1f1f1;
+	}
+
+	#mturk_form {
+	 background-color: #ffffff;
+	 margin: auto;
+	 font-family: Raleway;
+	 padding: 40px;
+	 width: 70%;
+	 min-width: 300px;
+	}
+
+	h1 {
+     font-family: Microsoft JhengHei;
+	 text-align: center;  
+     color: black;
+	}
+    
+    h2 {
+     font-family: Microsoft JhengHei;
+	}
+    
+
+	input {
+	 padding: 10px;
+	 width: 100%;
+	 font-size: 17px;
+	 font-family: Raleway;
+	 border: 1px solid #aaaaaa;
+	}
+    
+    span {
+     font-family: Microsoft JhengHei;
+     font-size:20px;
+    }
+
+	/* Mark input boxes that gets an error on validation: */
+	input.invalid {
+	 background-color: #ffdddd;
+	}
+
+	/* Hide all steps by default: */
+	.tab {
+	 display: none;
+	}
+
+	button {
+	 background-color: #4CAF50;
+	 color: #ffffff;
+	 border: none;
+	 padding: 10px 20px;
+	 font-size: 17px;
+	 font-family: Raleway;
+	 cursor: pointer;
+	}
+
+	button:hover {
+	 opacity: 0.8;
+	}
+
+	#prevBtn {
+	 background-color: #bbbbbb;
+	}
+
+	/* Make circles that indicate the steps of the form: */
+	.step {
+	 height: 15px;
+	 width: 15px;
+	 margin: 0 2px;
+	 background-color: #bbbbbb;
+	 border: none;  
+	 border-radius: 50%;
+	 display: inline-block;
+	 opacity: 0.5;
+	}
+
+	.step.active {
+	 opacity: 1;
+	}
+
+	/* Mark the steps that are finished and valid: */
+	.step.finish {
+	 background-color: #4CAF50;
+	}
+    
+    select {
+     -webkit-appearance: button;
+     -webkit-border-radius: 2px;
+     -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+     -webkit-padding-end: 20px;
+     -webkit-padding-start: 2px;
+     -webkit-user-select: none;
+     background-image: url(http://i62.tinypic.com/15xvbd5.png), -webkit-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+     background-position: 97% center;
+     background-repeat: no-repeat;
+     border: 1px solid #AAA;
+     color: #555;
+     font-size: inherit;
+     margin: 20px;
+     overflow: hidden;
+     padding: 5px 10px;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+     width: 300px;
+    }
+
+	</style>
+	<title>MOVIE TITLE</title>
+</head>
+<body onload="DisableEnable('button1')">
+	<form id="mturk_form" method="post" name="mturk_form">
+		<input id="mturk‐assignmentId" name="assignmentId" type="hidden">
+        <div class="tab">
+			<h1>說明</h1>
+            <h2><br>這是一個根據台詞自動生成電影名稱的機器，請您根據電影的資訊，為此機器產生的名稱評分，分數為0~5分，<font color="red">數字越大代表產生的名稱越好</font>。評分完成後請按submit按鈕提交，請注意，您至少必須花10秒鐘以上完成此表單。準備好了嗎？請按Next開始...
+            </h2>
+		</div>
+		<div class="tab">
+			<h1>Movie 1</h1>　 　　 　　 　
+			<table border="0" cellpadding="10">
+				<tr>
+					<td><img src="pic1.jpg" title="pic1" width="300px"></td>
+					<td>
+						<p><span>電影名稱(中文): <strong><font color="red">紅衣小女孩2</font></strong><br>
+						電影名稱(英文): The Tag-Along 2<br>
+						電影敘述:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        是一部改編自台灣家喻戶曉的都市傳說、靈異事件「紅衣小女孩」的同名電影《紅衣小女孩》的續集 ，為《紅衣小女孩》三部曲第二部。 由楊丞琳、許瑋甯、高慧君、龍劭華、 黃河領銜主演。台灣於2017年8月25日上映。<br>
+						生成電影名稱: <strong><font color="red">紅衣女鬼</font></strong><br><br>
+						分數:
+						 <select id="Q0" name="Q0">
+							<option value="0">
+								0
+							</option>
+							<option value="1">
+								1
+							</option>
+							<option value="2">
+								2
+							</option>
+							<option value="3">
+								3
+							</option>
+							<option value="4">
+								4
+							</option>
+							<option value="5">
+								5
+							</option>
+						</select><br></span></p>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div class="tab">
+			<h1>Movie 2</h1>　 　　 　　 　
+			<table border="0" cellpadding="10">
+				<tr>
+					<td><img src="pic2.jpg" title="pic1" width="300px"></td>
+					<td>
+						<p><span>電影名稱(中文): <strong><font color="red">牠</font></strong><br>
+						電影名稱(英文): It<br>
+						電影敘述: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        是一部2017年美國超自然恐怖片，由安迪·馬希提執導，查斯·帕瑪、凱瑞·福永與蓋瑞·道柏曼共同負責撰寫劇本。電影改編自史蒂芬·金的1986年同名小說《牠》。故事描述七名年輕小孩遭到「牠」盯上，而陷入各自的恐懼之中；金給予該故事的主題為「記憶、童年創傷，以及隱藏在傳統小鎮價值觀背後的醜陋。」<br>
+						生成電影名稱: <strong><font color="red">它</font></strong><br><br>
+						分數:
+						 <select id="Q1" name="Q1">
+							<option value="0">
+								0
+							</option>
+							<option value="1">
+								1
+							</option>
+							<option value="2">
+								2
+							</option>
+							<option value="3">
+								3
+							</option>
+							<option value="4">
+								4
+							</option>
+							<option value="5">
+								5
+							</option>
+						</select><br></span></p>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div class="tab">
+			<h1>Movie 3</h1>　 　　 　　 　
+			<table border="0" cellpadding="10">
+				<tr>
+					<td><img src="pic3.jpg" title="pic1" width="300px"></td>
+					<td>
+						<p><span>電影名稱(中文): <strong><font color="red">計程車司機</font></strong><br>
+						電影名稱(英文): A Taxi Driver<br>
+						電影敘述:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        是一部於2017年上映的韓國劇情片，由張勳執導，宋康昊、湯瑪斯·柯瑞奇曼、柳海真和柳俊烈主演。本片講述1980年5月18日韓國光州民主化運動前夕，一名首爾的計程車司機為了豐厚的車資而冒險載上德國記者來到光州的故事，期間展現了不少人與人之間的溫情。本片代表韓國角逐第90屆奧斯卡金像獎最佳外語片獎。<br>
+						生成電影名稱: <strong><font color="red">光州司機</font></strong><br><br>
+						分數:
+						 <select id="Q2" name="Q2">
+							<option value="0">
+								0
+							</option>
+							<option value="1">
+								1
+							</option>
+							<option value="2">
+								2
+							</option>
+							<option value="3">
+								3
+							</option>
+							<option value="4">
+								4
+							</option>
+							<option value="5">
+								5
+							</option>
+						</select><br></span></p>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<div style="overflow:auto;">
+			<div style="float:right;">
+				<button id="prevBtn" onclick="nextPrev(-1)" type="button">Previous</button> <button id="nextBtn" onclick="nextPrev(1)" type="button">Next</button>
+			</div>
+		</div><!-- Circles which indicates the steps of the form: -->
+		<div style="text-align:center;margin-top:40px;">
+			<span class="step"></span> <span class="step"></span> <span class="step"></span> <span class="step"></span>
+		</div>
+		<p><input id="button1" onclick="submitToTurk()" type="submit" value="Submit"></p>
+	</form>
+	<script src="index.js">
+	</script>
+</body>
+</html>
